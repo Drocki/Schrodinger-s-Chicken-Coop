@@ -1,6 +1,12 @@
 # Schrodinger-s-Chicken-Coop
 It lets you know whether the chicken in the box is alive or dead. If it's alive, the RGB light stays blue. If it's dead, it turns read. 
 This project uses a breadboard, a 10 mm RGB LED, a PIR sensor, two 220h reducers, and an Arduino Uno. The code is as follows. 
+
+
+
+
+
+
 //constants 
 const int sensorPin = 2;
 const int redPin = 9;
